@@ -19,4 +19,10 @@
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 </div>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=200)
+
+
