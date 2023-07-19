@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90&desc=Hana's%20GitHub%20Profile&descAlignY=100&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90&desc=Hana's%20GitHub%20Profile&descAlignY=61&descAlign=62)
 <div align = "center">
   <h3> Tech Stack </h3>
 </div>
