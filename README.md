@@ -19,9 +19,13 @@
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 </div>
+<br>
 
 <div align = "center">
 
+
+<h3> :bulb: Most used languages :bulb: </h3>
+<br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiniPPi)](https://github.com/MiniPPi/github-readme-stats)
 </div>
 
